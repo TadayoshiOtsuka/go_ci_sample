@@ -1,1 +1,4 @@
-# go_test_sample
+# go_ci_sample
+
+Run Test  
+`make test`
